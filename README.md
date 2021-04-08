@@ -13,3 +13,6 @@ CLASS 순으로 해결 중
 |   4   | [:exclamation:](https://github.com/dodqjfehfl/Baekjoon/blob/master/src/Baekjoon_12865.java) |   [평범한 배낭](https://www.acmicpc.net/problem/12865)    |                            KnapSack 문제                            |
 |   4   | [:exclamation:](https://github.com/dodqjfehfl/Baekjoon/blob/master/src/Baekjoon_1916.java)  |  [최소비용 구하기](https://www.acmicpc.net/problem/1916)  |                               풀이중                                |
 |   4   | [:exclamation:](https://github.com/dodqjfehfl/Baekjoon/blob/master/src/Baekjoon_11725.java) | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |                               풀이중                                |
+|   4   | [:exclamation:](https://github.com/dodqjfehfl/Baekjoon/blob/master/src/Baekjoon_11725.java) | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |                               풀이중                                |
+|   4   | [:exclamation:](https://github.com/dodqjfehfl/Baekjoon/blob/master/src/Baekjoon_15657.java) | [N과 M (8)](https://www.acmicpc.net/problem/15657) |                               N과 M시리즈                                |
+
