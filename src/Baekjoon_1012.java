@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class baekjoon_1012 {
+public class Baekjoon_1012 {
 
 	static class Node {
 		int r, c;
